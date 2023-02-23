@@ -1,2 +1,3 @@
-# desafio-projeto-github-dio
-Projeto para o primeiro desafio da DIO: criando repositório no GitHub.
+## Desafio DIO - Projeto GitHub
+
+Primeiro desafio da DIO: criando repositório no GitHub. :woman_technologist::white_check_mark:
